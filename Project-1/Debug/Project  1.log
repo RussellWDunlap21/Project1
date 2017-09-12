@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\project  1\source.cpp(42): warning C4715: 'Pop': not all control paths return a value
+  Project  1.vcxproj -> F:\Project  1\Debug\Project  1.exe
+  Project  1.vcxproj -> F:\Project  1\Debug\Project  1.pdb (Full PDB)
